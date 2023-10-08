@@ -428,10 +428,10 @@
   dependencies:
     "@hapi/hoek" "^8.3.0"
 
-"@hookun/parse-animation-shorthand@^0.1.4":
-  version "0.1.4"
-  resolved "https://registry.yarnpkg.com/@hookun/parse-animation-shorthand/-/parse-animation-shorthand-0.1.4.tgz#1a5b888588d875a9006a0fb81050ce93bc2aa3dc"
-  integrity sha512-SL5XshO2hvsbgL1YoyTL95ayYLNBdZKXpla2UD7/Ehh2vDLDwYxHheGgJxW08hiVvLDfsWTXKWFd1Iw5xMQIXA==
+"@hookun/parse-animation-shorthand@^0.1.5":
+  version "0.1.5"
+  resolved "https://registry.yarnpkg.com/@hookun/parse-animation-shorthand/-/parse-animation-shorthand-0.1.5.tgz#08d7d5d0b132c047f9879ae3807651d8c0753247"
+  integrity sha512-/fnwYK9Tgllhtv2EpwZZVbwhCokAoGtfEz23mZtjHMHvih4YeiAeUuVpyjGrTGf6j6ymgrCxGwUiAkAfDsmUjw==
 
 "@jridgewell/gen-mapping@^0.1.0":
   version "0.1.1"
@@ -1187,9 +1187,9 @@ caniuse-api@^3.0.0:
     lodash.uniq "^4.5.0"
 
 caniuse-lite@^1.0.0, caniuse-lite@^1.0.30001370, caniuse-lite@^1.0.30001373:
-  version "1.0.30001385"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001385.tgz#51d5feeb60b831a5b4c7177f419732060418535c"
-  integrity sha512-MpiCqJGhBkHgpyimE9GWmZTnyHyEEM35u115bD3QBrXpjvL/JgcP8cUhKJshfmg4OtEHFenifcK5sZayEw5tvQ==
+  version "1.0.30001546"
+  resolved "https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30001546.tgz"
+  integrity sha512-zvtSJwuQFpewSyRrI3AsftF6rM0X80mZkChIt1spBGEvRglCrjTniXvinc8JKRoqTwXAgvqTImaN9igfSMtUBw==
 
 capitalize@^2.0.3:
   version "2.0.4"
@@ -5474,13 +5474,13 @@ stylehacks@^5.1.0:
     browserslist "^4.16.6"
     postcss-selector-parser "^6.0.4"
 
-subfont@^6.9.0:
-  version "6.10.0"
-  resolved "https://registry.yarnpkg.com/subfont/-/subfont-6.10.0.tgz#4332d80ce76d19e369d7575f8ead9b9e13ea5332"
-  integrity sha512-UweqyXQOcr3ZqAOWM7JLVglH36QkGG94HGEGmsyhY3cerOcUbpbxdKdEk4bI7D4LDwNj62jUwV3G0FIrvKb8rQ==
+subfont@^6.12.5:
+  version "6.12.5"
+  resolved "https://registry.yarnpkg.com/subfont/-/subfont-6.12.5.tgz#d05422aedbb461ec11eb5a4f19549782cb852c13"
+  integrity sha512-Orz+jk//zqRbG8vViutGPlIWX4GxUKtdEV5pkncm6lXO/DiFZaYHPhX+w134nI09DTJ4Z2b+58sErTcn+zlFaQ==
   dependencies:
     "@gustavnikolaj/async-main-wrap" "^3.0.1"
-    "@hookun/parse-animation-shorthand" "^0.1.4"
+    "@hookun/parse-animation-shorthand" "^0.1.5"
     assetgraph "^7.8.1"
     browserslist "^4.13.0"
     css-font-parser "^2.0.0"
